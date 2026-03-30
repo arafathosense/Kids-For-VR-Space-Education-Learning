@@ -47,9 +47,9 @@ The core logic of the game is encapsulated in various C# scripts handling differ
 2. Open the project in Unity.
 3. Build and run the project on a compatible XR device (Oculus) or use the XR Device Simulator with the specified key bindings.
 
-## Demo Video
+## 🎮 Watch Demo
 
-[View Demo Video](https://youtu.be/5rqC8t2Kq2U)
+[![Watch Demo](https://raw.githubusercontent.com/arafathosense/Kids-VR-Space-Education-Learning-Environment/main/arafat.png)](https://youtu.be/5rqC8t2Kq2U)
 
 ## Novelty
 
